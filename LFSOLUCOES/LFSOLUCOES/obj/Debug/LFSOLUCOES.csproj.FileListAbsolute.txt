@@ -1,0 +1,15 @@
+c:\users\pc\documents\visual studio 2012\Projects\LFSOLUCOES\LFSOLUCOES\bin\Debug\LFSOLUCOES.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\LFSOLUCOES\LFSOLUCOES\obj\Debug\LFSOLUCOES.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2012\Projects\LFSOLUCOES\LFSOLUCOES\obj\Debug\LFSOLUCOES.Splash.resources
+c:\users\pc\documents\visual studio 2012\Projects\LFSOLUCOES\LFSOLUCOES\obj\Debug\LFSOLUCOES.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2012\Projects\LFSOLUCOES\LFSOLUCOES\obj\Debug\LFSOLUCOES.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2012\Projects\LFSOLUCOES\LFSOLUCOES\bin\Debug\LFSOLUCOES.exe
+c:\users\pc\documents\visual studio 2012\Projects\LFSOLUCOES\LFSOLUCOES\bin\Debug\LFSOLUCOES.pdb
+c:\users\pc\documents\visual studio 2012\Projects\LFSOLUCOES\LFSOLUCOES\obj\Debug\LFSOLUCOES.exe
+c:\users\pc\documents\visual studio 2012\Projects\LFSOLUCOES\LFSOLUCOES\obj\Debug\LFSOLUCOES.pdb
+C:\Users\PC\Documents\Visual Studio 2012\Projects\LFSOLUCOES\LFSOLUCOES\obj\Debug\LFSOLUCOES.Menu_Principal.resources
+C:\Users\PC\Documents\Visual Studio 2012\Projects\LFSOLUCOES\LFSOLUCOES\obj\Debug\LFSOLUCOES.Informe_os_dados.resources
+C:\Users\PC\Documents\Visual Studio 2012\Projects\LFSOLUCOES\LFSOLUCOES\obj\Debug\LFSOLUCOES.Sugestoes.resources
+C:\Users\PC\Documents\Visual Studio 2012\Projects\LFSOLUCOES\LFSOLUCOES\obj\Debug\LFSOLUCOES.Chamado_aberto.resources
+C:\Users\PC\Documents\Visual Studio 2012\Projects\LFSOLUCOES\LFSOLUCOES\obj\Debug\LFSOLUCOES.Area_de_validacao.resources
+C:\Users\PC\Documents\Visual Studio 2012\Projects\LFSOLUCOES\LFSOLUCOES\obj\Debug\LFSOLUCOES.LFInfo.resources
