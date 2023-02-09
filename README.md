@@ -1,4 +1,4 @@
-# SolicitarChamado_LF(CSharp)
+# SolicitarChamado-LF(CSharp)  [![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
 
 This software is aimed at small businesses and establishments in my city that do not have a specific sector in the IT area, and need technical support.
 
