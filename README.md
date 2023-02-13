@@ -1,14 +1,14 @@
 # SolicitarChamado-LF(CSharp)  [![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
 
-This software is aimed at small businesses and establishments in my city that do not have a specific sector in the IT area, and need technical support.
+Este software é voltado para pequenas empresas e estabelecimentos da minha cidade que não possuem um setor específico na área de TI, e precisam de suporte técnico.
 
-The purpose of the system is to be able to open technical calls with just a simple access without registration, after opening a call, a technician will be going to the informed place to solve the given problem.
+O objetivo do sistema é poder abrir chamados técnicos com apenas um simples acesso sem cadastro, após a abertura do chamado um técnico irá até o local informado para solucionar o problema apresentado.
 
 Interface:
 
 ![image](https://user-images.githubusercontent.com/101680647/192113224-645d8d9c-4516-47bc-b13b-5c307fff0df3.png)
 
 
-Technology: Windows Forms Application
+Tecnologia: Windows Forms Application
 
-Programming Language: C#(Sharp)
+Linguagem: C#(Sharp)
