@@ -60,7 +60,7 @@ namespace LFSOLUCOES
             //Conteudo 
             Mymail.Body = ("Acesso ao sistema");
             smtpserver.Port = (587);
-            smtpserver.Credentials = new System.Net.NetworkCredential("lfsolucoesdescalvado@gmail.com", "elffqwvlsdmozgtr");
+            smtpserver.Credentials = new System.Net.NetworkCredential("", "");
             smtpserver.EnableSsl = true;
             smtpserver.Send(Mymail);
         }
@@ -84,7 +84,7 @@ namespace LFSOLUCOES
             //Conteudo 
             Mymail1.Body = ("Olá " + txtBox_nomecliente.Text + ", o código do seu chamado é: " + codigo + " Solicitou: " + servico);
             smtpserver1.Port = (587);
-            smtpserver1.Credentials = new System.Net.NetworkCredential("lfsolucoesdescalvado@gmail.com", "elffqwvlsdmozgtr");
+            smtpserver1.Credentials = new System.Net.NetworkCredential("", "");
             smtpserver1.EnableSsl = true;
             smtpserver1.Send(Mymail1);
 
@@ -100,7 +100,7 @@ namespace LFSOLUCOES
             //Conteudo 
             Mymail.Body = ("Cliente: " + txtBox_nomecliente.Text + " Código do chamado: " + codigo + " Solicitou: " + servico);
             smtpserver.Port = (587);
-            smtpserver.Credentials = new System.Net.NetworkCredential("lfsolucoesdescalvado@gmail.com", "elffqwvlsdmozgtr");
+            smtpserver.Credentials = new System.Net.NetworkCredential("", "");
             smtpserver.EnableSsl = true;
             smtpserver.Send(Mymail);
 
@@ -124,7 +124,7 @@ namespace LFSOLUCOES
             //Conteudo 
             Mymail1.Body = ("Olá " + txtBox_nomecliente.Text + "! " + lbl_numchamado.Text + " foi cancelado.");
             smtpserver1.Port = (587);
-            smtpserver1.Credentials = new System.Net.NetworkCredential("lfsolucoesdescalvado@gmail.com", "elffqwvlsdmozgtr");
+            smtpserver1.Credentials = new System.Net.NetworkCredential("", "");
             smtpserver1.EnableSsl = true;
             smtpserver1.Send(Mymail1);
 
@@ -140,7 +140,7 @@ namespace LFSOLUCOES
             //Conteudo 
             Mymail.Body = ("Cliente: " + txtBox_nomecliente.Text + " cancelou o " + lbl_numchamado.Text);
             smtpserver.Port = (587);
-            smtpserver.Credentials = new System.Net.NetworkCredential("lfsolucoesdescalvado@gmail.com", "elffqwvlsdmozgtr");
+            smtpserver.Credentials = new System.Net.NetworkCredential("", "");
             smtpserver.EnableSsl = true;
             smtpserver.Send(Mymail);
         }
